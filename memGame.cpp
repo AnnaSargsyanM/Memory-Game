@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               memGame.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #14
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                May 5, 2023
-//
 //     This program generates memory game. User chooses 2 labels, and program
 //     shows what numbers are hidden there. The process ends only when user
 //     finds all the matching cards.
